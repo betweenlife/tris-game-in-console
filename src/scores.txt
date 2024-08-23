@@ -1,1 +1,1 @@
-Player1: 1 & Player2: 4
+Player1: 0 & Player2: 0
